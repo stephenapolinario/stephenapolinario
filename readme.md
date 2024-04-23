@@ -12,7 +12,7 @@
 :book: Read books <br/>
 :tv: Movies & series <br/>
 :video_game: Games <br/>
-:pizza: Mussarela pizza!
+:pizza: Margherita pizza!
 
 ## :dart: 𝚂𝚔𝚒𝚕𝚕𝚜
 
