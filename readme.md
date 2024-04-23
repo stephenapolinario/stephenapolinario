@@ -2,16 +2,16 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- :earth_americas: 𝙸'𝚖 𝚋𝚊𝚜𝚎𝚍 𝚒𝚗 𝙸𝚝𝚊𝚓𝚊𝚒
-- :computer: 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 - 𝚄𝚗𝚒𝚟𝚊𝚕𝚒
-- :railway_track: 𝚂𝚎𝚎 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚊𝚝 [𝚜𝚝𝚎𝚙𝚑𝚎𝚗𝚊𝚙𝚘𝚕𝚒𝚗𝚊𝚛𝚒𝚘.𝚍𝚎𝚟](https://stephenapolinario.dev/) ( :hammer_and_wrench: Under construction :hammer_and_wrench: )
-- :bulb: 𝙼𝚒𝚗𝚍𝚜𝚎𝚝 𝚘𝚏 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 & 𝙲𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢
+:earth_americas: 𝙸'𝚖 𝚋𝚊𝚜𝚎𝚍 𝚒𝚗 𝙸𝚝𝚊𝚓𝚊𝚒 <br/>
+:computer: 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 - 𝚄𝚗𝚒𝚟𝚊𝚕𝚒 <br/>
+:railway_track: 𝚂𝚎𝚎 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚊𝚝 <br/>[𝚜𝚝𝚎𝚙𝚑𝚎𝚗𝚊𝚙𝚘𝚕𝚒𝚗𝚊𝚛𝚒𝚘.𝚍𝚎𝚟](https://stephenapolinario.dev/) ( :hammer_and_wrench: Under construction :hammer_and_wrench: )<br/>
+:bulb: 𝙼𝚒𝚗𝚍𝚜𝚎𝚝 𝚘𝚏 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 & 𝙲𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢
 
 ### 𝙷𝚘𝚋𝚋𝚒𝚎𝚜
 
-:book: Read books
-:tv: Movies & series
-:video_game: Games
+:book: Read books <br/>
+:tv: Movies & series <br/>
+:video_game: Games <br/>
 :pizza: Mussarela pizza!
 
 ## :dart: 𝚂𝚔𝚒𝚕𝚕𝚜
